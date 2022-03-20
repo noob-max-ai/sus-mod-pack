@@ -1,0 +1,16 @@
+THIS PROGRAM IS NOT A VIRUS.
+This is a compiled AutoHotKey script.
+This program doesn't have any destructive capabilities, it types text when you hit enter. Nothing else.
+The code will be below so you can assess this.
+
+To exit the program at any time, please right click the H icon in taskbar and click exit.
+
+CODE
+-------------------------------------------------------------------------------------------------------------------
+enter::
+Send +{enter}
+Send You sussy baka, Nyah
+Send {Enter}
+-------------------------------------------------------------------------------------------------------------------
+
+Made by a Discord user.
